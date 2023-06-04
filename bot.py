@@ -17,7 +17,7 @@ async def main():
         format='%(filename)s:%(lineno)d #%(levelname)-8s '
                '[%(asctime)s] - %(name)s - %(message)s')
 
-    # Выводим в консоль информацию о начале запуска бота
+    # Выводим в консоль информацию о начале запуска бота fghj
     logger.info('Starting bot')
 
     # Загружаем конфиг в переменную config khk
