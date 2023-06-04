@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 # Функция конфигурирования и запуска бота
 async def main():
-    # Конфигурируем логирование
+    # Конфигурируем логирование dhjfuu
     logging.basicConfig(
         level=logging.INFO,
         format='%(filename)s:%(lineno)d #%(levelname)-8s '
@@ -20,7 +20,7 @@ async def main():
     # Выводим в консоль информацию о начале запуска бота
     logger.info('Starting bot')
 
-    # Загружаем конфиг в переменную config
+    # Загружаем конфиг в переменную config khhdfu
     config: Config = load_config()
 
     # Инициализируем бот и диспетчер
