@@ -20,7 +20,7 @@ async def main():
     # Выводим в консоль информацию о начале запуска бота
     logger.info('Starting bot')
 
-    # Загружаем конфиг в переменную config khhdfu
+    # Загружаем конфиг в переменную config khkknmn
     config: Config = load_config()
 
     # Инициализируем бот и диспетчер
